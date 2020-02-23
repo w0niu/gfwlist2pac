@@ -1,8 +1,8 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-02-16 15:14:37
+ * Generated: 2020-02-23 23:08:05
  * GFWList Last-Modified: 2019-11-05 00:21:47
- * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
+ * GFWList From: local[/Users/zhangqing/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -10,6 +10,7 @@ var rules = [
     [
         [],
         [
+            "gravatar.com",
             "kissjav.com"
         ]
     ],
