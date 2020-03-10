@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-03-06 13:51:14
+ * Generated: 2020-03-10 10:23:40
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -118,8 +118,10 @@ var rules = [
             "skyao.io",
             "snapchat.com",
             "sstatic.net",
+            "stackexchange.com",
             "stackoverflow.com",
             "steelseriescdn.com",
+            "superuser.com",
             "t.co",
             "techrepublic.com",
             "thanos.io",

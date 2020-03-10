@@ -141,3 +141,5 @@
 ||panic.com
 serverfault.com
 ||elastic.co
+||stackexchange.com
+||superuser.com
