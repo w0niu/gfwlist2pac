@@ -52,7 +52,7 @@
 ||firebaseio.com
 ||pivotal.io
 ||rundeck.com
-||bp.blogspot.com
+||blogspot.com
 ||blogblog.com
 ||blogger.com
 ||charlesproxy.com
