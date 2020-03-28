@@ -143,3 +143,8 @@ serverfault.com
 ||elastic.co
 ||stackexchange.com
 ||superuser.com
+||githubassets.com
+||githubapp.com
+||githubusercontent.com
+||mag234.com
+||fontawesome.com
