@@ -148,3 +148,4 @@ serverfault.com
 ||githubusercontent.com
 ||mag234.com
 ||fontawesome.com
+||trustarc.com
