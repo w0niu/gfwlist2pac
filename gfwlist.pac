@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-04-03 18:27:10
+ * Generated: 2020-04-15 12:54:14
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -27,6 +27,7 @@ var rules = [
             "ceph.com",
             "ceph.io",
             "charlesproxy.com",
+            "cloudera.com",
             "cloudflare.com",
             "cloudfront.net",
             "crwdcntrl.net",

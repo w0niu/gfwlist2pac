@@ -149,3 +149,4 @@ serverfault.com
 ||mag234.com
 ||fontawesome.com
 ||trustarc.com
+||cloudera.com
