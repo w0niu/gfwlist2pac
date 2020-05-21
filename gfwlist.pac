@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-04-15 12:57:16
+ * Generated: 2020-05-21 14:39:25
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -84,6 +84,7 @@ var rules = [
             "keycdn.com",
             "kissjav.com",
             "kubernetes.io",
+            "libreelec.tv",
             "mag234.com",
             "medium.com",
             "min.io",

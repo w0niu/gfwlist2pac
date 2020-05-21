@@ -150,3 +150,4 @@ serverfault.com
 ||fontawesome.com
 ||trustarc.com
 ||cloudera.com
+||libreelec.tv
