@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-05-21 14:39:25
+ * Generated: 2020-05-28 15:32:23
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -31,6 +31,7 @@ var rules = [
             "cloudflare.com",
             "cloudfront.net",
             "crwdcntrl.net",
+            "dell.com",
             "digitalocean.com",
             "disqus.com",
             "django-rest-framework.org",
@@ -104,6 +105,7 @@ var rules = [
             "polyfill.io",
             "pornhub.com",
             "pricespider.com",
+            "prometheus.io",
             "proxmox.com",
             "python.org",
             "quantserve.com",

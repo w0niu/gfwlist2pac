@@ -151,3 +151,5 @@ serverfault.com
 ||trustarc.com
 ||cloudera.com
 ||libreelec.tv
+||dell.com
+||prometheus.io
