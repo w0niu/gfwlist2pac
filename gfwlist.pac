@@ -1,8 +1,8 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-06-11 23:12:51
+ * Generated: 2020-06-22 14:25:48
  * GFWList Last-Modified: 2019-11-05 00:21:47
- * GFWList From: local[/Users/zhangqing/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
+ * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -24,6 +24,7 @@ var rules = [
             "blogger.com",
             "blogspot.com",
             "bootstrapcdn.com",
+            "bwh88.net",
             "ceph.com",
             "ceph.io",
             "charlesproxy.com",
