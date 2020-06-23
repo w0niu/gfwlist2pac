@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-06-22 14:30:50
+ * Generated: 2020-06-23 15:35:09
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -92,6 +92,7 @@ var rules = [
             "medium.com",
             "min.io",
             "mktoresp.com",
+            "mpv.io",
             "myfonts.net",
             "nvidia.com",
             "openthinclient.org",

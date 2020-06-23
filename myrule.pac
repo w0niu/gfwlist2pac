@@ -156,3 +156,4 @@ serverfault.com
 ||packagecloud.io
 ||bwh88.net
 ||64clouds.com
+||mpv.io
