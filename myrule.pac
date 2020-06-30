@@ -157,3 +157,4 @@ serverfault.com
 ||bwh88.net
 ||64clouds.com
 ||mpv.io
+||kodi.tv
