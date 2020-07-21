@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-06-30 14:34:25
+ * Generated: 2020-07-21 16:03:32
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -139,6 +139,7 @@ var rules = [
             "thegeekdiary.com",
             "tonybai.com",
             "trustarc.com",
+            "tuned-project.org",
             "twimg.com",
             "twitter.com",
             "typekit.net",
