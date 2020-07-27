@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-07-21 16:03:32
+ * Generated: 2020-07-27 11:23:08
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -17,6 +17,7 @@ var rules = [
             "amazon.com",
             "amazonaws.com",
             "appwen.com",
+            "avast.com",
             "ax2x.com",
             "backchina.com",
             "bandwagonhost.com",

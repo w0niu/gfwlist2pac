@@ -159,3 +159,4 @@ serverfault.com
 ||mpv.io
 ||kodi.tv
 ||tuned-project.org
+||avast.com
