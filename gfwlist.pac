@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-07-30 18:28:59
+ * Generated: 2020-07-30 18:30:14
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -150,6 +150,7 @@ var rules = [
             "useso.com",
             "v2ex.com",
             "v2rayssr.com",
+            "viidii.info",
             "vmware.com",
             "wikipedia.org",
             "wp.com",
