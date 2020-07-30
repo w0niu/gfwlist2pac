@@ -162,3 +162,4 @@ serverfault.com
 ||avast.com
 ||t66y.com
 ||viidii.info
+||privacypic.com
