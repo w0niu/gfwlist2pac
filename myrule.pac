@@ -160,3 +160,4 @@ serverfault.com
 ||kodi.tv
 ||tuned-project.org
 ||avast.com
+||t66y.com

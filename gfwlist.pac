@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-07-27 11:23:08
+ * Generated: 2020-07-30 18:28:59
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -135,6 +135,7 @@ var rules = [
             "steelseriescdn.com",
             "superuser.com",
             "t.co",
+            "t66y.com",
             "techrepublic.com",
             "thanos.io",
             "thegeekdiary.com",
