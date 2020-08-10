@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-07-30 18:46:24
+ * Generated: 2020-08-10 17:30:53
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -105,6 +105,7 @@ var rules = [
             "paperairoplane.net",
             "perimeterx.net",
             "philipphauer.de",
+            "pianyuan.org",
             "pivotal.io",
             "playstation.com",
             "playstation.net",
