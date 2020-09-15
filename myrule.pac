@@ -164,3 +164,6 @@ serverfault.com
 ||viidii.info
 ||privacypic.com
 ||pianyuan.org
+||zhs.tw
+||zhs.today
+||zhs.cloud

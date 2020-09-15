@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-08-10 17:30:53
+ * Generated: 2020-09-15 18:05:06
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: local[/Users/xmly/Documents/workspace/gfwlist2pac/gfwlist/gfwlist.txt]
  */
@@ -158,7 +158,10 @@ var rules = [
             "wp.com",
             "youtube.com",
             "ytimg.com",
-            "zabbix.com"
+            "zabbix.com",
+            "zhs.cloud",
+            "zhs.today",
+            "zhs.tw"
         ]
     ],
     [
